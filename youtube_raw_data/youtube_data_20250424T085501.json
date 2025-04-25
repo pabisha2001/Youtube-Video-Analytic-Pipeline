@@ -1,0 +1,692 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "ir42Fk-EjLi-FyZeeicQl6GgtXc",
+  "nextPageToken": "CBQQAA",
+  "regionCode": "LK",
+  "pageInfo": {
+    "totalResults": 180,
+    "resultsPerPage": 20
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "d8A7UYWWkuOuVltVG22tUNP0WDM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "LRqmFX6mOM0"
+      },
+      "snippet": {
+        "publishedAt": "2025-03-16T13:43:02Z",
+        "channelId": "UCChmJrVa8kDg05JfCmxpLRw",
+        "title": "Next Big Thing for Data Engineers - Open Table Formats \ud83d\ude80 (Apache Iceberg, Hudi, Delta Tables)",
+        "description": "6 Course Combo Pack (Python, SQL, Data Warehouse (Snowflake), Apache Spark (Databricks), Airflow and Kafka with 16 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LRqmFX6mOM0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LRqmFX6mOM0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LRqmFX6mOM0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Darshil Parmar",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-03-16T13:43:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "qSu3iMxe095W4FabKKO_B7ODFAg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "g8Eejnqm4Tg"
+      },
+      "snippet": {
+        "publishedAt": "2025-02-22T13:30:24Z",
+        "channelId": "UCChmJrVa8kDg05JfCmxpLRw",
+        "title": "Best Coding Platform for Data Engineers - Solve Real-World Interview Questions",
+        "description": "Access the platform here - https://bit.ly/4bcUfIt Don't Miss Out, on a HUGE DISCOUNT \u2014Act Now Before It's Too Late! Only the ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/g8Eejnqm4Tg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/g8Eejnqm4Tg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/g8Eejnqm4Tg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Darshil Parmar",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-02-22T13:30:24Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "WbhKRlZU08pSOwOX8GPv4r6Aqv4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "l_DSupG77ME"
+      },
+      "snippet": {
+        "publishedAt": "2025-02-13T14:03:48Z",
+        "channelId": "UCChmJrVa8kDg05JfCmxpLRw",
+        "title": "Only Data Engineering Roadmap You Need 2025",
+        "description": "6 Course Combo Pack (Python, SQL, Data Warehouse (Snowflake), Apache Spark (Databricks), Airflow and Kafka with 16 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/l_DSupG77ME/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/l_DSupG77ME/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/l_DSupG77ME/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Darshil Parmar",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-02-13T14:03:48Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "kwkFxhQc9JjS6h4ayWUw88KDkDo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "tww94IpKouw"
+      },
+      "snippet": {
+        "publishedAt": "2025-01-12T14:01:02Z",
+        "channelId": "UCChmJrVa8kDg05JfCmxpLRw",
+        "title": "Complete Guide To Get Remote Job in 2025 | Make $10,000 Per month",
+        "description": "Zero To Hero Data Engineering Pack: https://bit.ly/48qG6G7 The Ultimate Guide to Become a Freelancer in 2025 and Start Making ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/tww94IpKouw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/tww94IpKouw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/tww94IpKouw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Darshil Parmar",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-01-12T14:01:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "fP_qoOcJAwnudVY8N2ik6FDPD7U",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "vG6zNUy_4Hw"
+      },
+      "snippet": {
+        "publishedAt": "2024-10-27T15:07:20Z",
+        "channelId": "UCChmJrVa8kDg05JfCmxpLRw",
+        "title": "DON&#39;T Get Left Behind! 2025 Data Engineering Trends to Master!",
+        "description": "Zero To Hero Data Engineering Pack: https://bit.ly/48qG6G7 2025 is going to be BIG for data engineering! In this video, I'll share ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vG6zNUy_4Hw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vG6zNUy_4Hw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vG6zNUy_4Hw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Darshil Parmar",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-10-27T15:07:20Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "MByhAxbSDYf4Aylr696BePRFuiU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "FB4_y25Iifw"
+      },
+      "snippet": {
+        "publishedAt": "2024-08-25T14:00:12Z",
+        "channelId": "UCChmJrVa8kDg05JfCmxpLRw",
+        "title": "Master Apache Airflow: 5 Real-World Projects to Get You Started",
+        "description": "Get the Apache Airflow Course Here - https://bit.ly/4f5Ml57 USE CODE - EARLYAIRFLOW for 50% discount Combo Package ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/FB4_y25Iifw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/FB4_y25Iifw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/FB4_y25Iifw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Darshil Parmar",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-08-25T14:00:12Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "r9y_VeinIubE9gjAiftL8PnaKF0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "hf2go3E2m8g"
+      },
+      "snippet": {
+        "publishedAt": "2024-08-18T13:05:41Z",
+        "channelId": "UCChmJrVa8kDg05JfCmxpLRw",
+        "title": "Fundamentals Of Data Engineering Masterclass",
+        "description": "Combo Package Python + SQL + Data warehouse (Snowflake) + Apache Spark + Apache Airflow: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hf2go3E2m8g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hf2go3E2m8g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hf2go3E2m8g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Darshil Parmar",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-08-18T13:05:41Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "W9CyR9afsGRudeq_mpMY604Pv4k",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "KIqteLTVLy8"
+      },
+      "snippet": {
+        "publishedAt": "2024-08-04T13:30:03Z",
+        "channelId": "UCChmJrVa8kDg05JfCmxpLRw",
+        "title": "Building Your First Data Engineering Portfolio: A Step by Step Guide (2024)",
+        "description": "Check Out My Data Engineering Bootcamp: https://datavidhya.com/combo-course-info USE CODE: COMBO50 for a 50% discount ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KIqteLTVLy8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KIqteLTVLy8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KIqteLTVLy8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Darshil Parmar",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-08-04T13:30:03Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "StAUhPjcHZDZh2rKgxt2Fh2WqGE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "1rW89Sd6HYU"
+      },
+      "snippet": {
+        "publishedAt": "2024-07-08T15:44:34Z",
+        "channelId": "UCChmJrVa8kDg05JfCmxpLRw",
+        "title": "Data Engineering Was Hard Until I Learned These 5 Secrets!",
+        "description": "Check Out My Data Engineering Bootcamp: https://bit.ly/3yXsrcy USE CODE: COMBO50 for a 50% discount Learn more about ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1rW89Sd6HYU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1rW89Sd6HYU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1rW89Sd6HYU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Darshil Parmar",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-07-08T15:44:34Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "UFYMCTz0G9287R743-z3angH0BQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Ydts27Qa8H0"
+      },
+      "snippet": {
+        "publishedAt": "2024-06-30T13:28:13Z",
+        "channelId": "UCChmJrVa8kDg05JfCmxpLRw",
+        "title": "Learn Kafka in 10 Minutes | Most Important Skill for Data Engineering",
+        "description": "Check Out My Data Engineering Bootcamp: https://bit.ly/3yXsrcy USE CODE: COMBO50 for a 50% discount Learn more about ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Ydts27Qa8H0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Ydts27Qa8H0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Ydts27Qa8H0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Darshil Parmar",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-06-30T13:28:13Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Ne1MSbanI4LJFFWikdds850kPyc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ZHC96suZr-c"
+      },
+      "snippet": {
+        "publishedAt": "2024-06-09T15:55:43Z",
+        "channelId": "UCChmJrVa8kDg05JfCmxpLRw",
+        "title": "My Data Engineering Journey in 5 Minutes | Projects | Tools",
+        "description": "Combo Package Python + SQL + Data warehouse (Snowflake) + Apache Spark: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZHC96suZr-c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZHC96suZr-c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZHC96suZr-c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Darshil Parmar",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-06-09T15:55:43Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "160-NUxyHZ0fAKaRM0yf8LPupwA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "JUws0cMnL78"
+      },
+      "snippet": {
+        "publishedAt": "2024-05-19T13:00:27Z",
+        "channelId": "UCChmJrVa8kDg05JfCmxpLRw",
+        "title": "What Does a Data Engineer Do? Explained Simply",
+        "description": "Combo Package Python + SQL + Data warehouse (Snowflake) + Apache Spark: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JUws0cMnL78/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JUws0cMnL78/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JUws0cMnL78/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Darshil Parmar",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-05-19T13:00:27Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "BsHm8DoCNTNiY1IHAnrtMJS8VGQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "r_K9hznoPKU"
+      },
+      "snippet": {
+        "publishedAt": "2024-05-12T13:00:51Z",
+        "channelId": "UCChmJrVa8kDg05JfCmxpLRw",
+        "title": "The State of Data Engineering in 2025 - Jobs, Salary, Layoff, AI and Future",
+        "description": "Check Out My Data Engineering Bootcamp: https://bit.ly/3yXsrcy USE CODE: COMBO50 for a 50% discount Learn more about ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/r_K9hznoPKU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/r_K9hznoPKU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/r_K9hznoPKU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Darshil Parmar",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-05-12T13:00:51Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "RizddKTfXOYsWn_fafa-J95OnIw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "0iNJPKheQqM"
+      },
+      "snippet": {
+        "publishedAt": "2024-04-21T13:30:00Z",
+        "channelId": "UCChmJrVa8kDg05JfCmxpLRw",
+        "title": "IPL Data Analysis | Apache Spark End-To-End Data Engineering Project",
+        "description": "Enroll in the Apache Spark Course Here - https://bit.ly/3XnUCdP USE CODE: EARLYSPARK for 50% off Check Out My Data ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0iNJPKheQqM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0iNJPKheQqM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0iNJPKheQqM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Darshil Parmar",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-04-21T13:30:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "QipSXMDm6PhocWl1pgctcVZKq88",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "XnPF-MDMUzc"
+      },
+      "snippet": {
+        "publishedAt": "2024-04-14T13:10:17Z",
+        "channelId": "UCChmJrVa8kDg05JfCmxpLRw",
+        "title": "You&#39;re not stupid: How to learn difficult things | Complete Guide",
+        "description": "Check Out My Data Engineering Bootcamp: https://bit.ly/3yXsrcy USE CODE: COMBO50 for a 50% discount How To Take ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XnPF-MDMUzc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XnPF-MDMUzc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XnPF-MDMUzc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Darshil Parmar",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-04-14T13:10:17Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ihqaHsl07qUlGABtrvIQAixNbfY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "V7ue-tM2aYU"
+      },
+      "snippet": {
+        "publishedAt": "2024-03-31T13:00:21Z",
+        "channelId": "UCChmJrVa8kDg05JfCmxpLRw",
+        "title": "Best Apache Spark Course with Databricks for Data Engineering | 2 End-To-End Projects",
+        "description": "Enroll in the Apache Spark Course Here - https://bit.ly/3XnUCdP USE CODE: EARLYSPARK for 50% off \u27a1\ufe0f Check Out My Data ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/V7ue-tM2aYU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/V7ue-tM2aYU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/V7ue-tM2aYU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Darshil Parmar",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-03-31T13:00:21Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "r2RYJTFcqgoL_CL_mftnq-SGpmA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "KV4hZR5-D-4"
+      },
+      "snippet": {
+        "publishedAt": "2024-03-11T15:22:46Z",
+        "channelId": "UCChmJrVa8kDg05JfCmxpLRw",
+        "title": "How I Got 60LPA Remote Job as Data Engineer",
+        "description": "Check Out My Data Engineering Bootcamp: https://bit.ly/3yXsrcy USE CODE: COMBO50 for a 50% discount Purchase Individual ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KV4hZR5-D-4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KV4hZR5-D-4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KV4hZR5-D-4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Darshil Parmar",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-03-11T15:22:46Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "snGHf_xMH3HyWbuUvce8g8UriLM",
+      "id": {
+        "kind": "youtube#playlist",
+        "playlistId": "PLBJe2dFI4sgvQTNNkI3ETYJgNPR4CBpFd"
+      },
+      "snippet": {
+        "publishedAt": "2024-03-07T06:53:59Z",
+        "channelId": "UCChmJrVa8kDg05JfCmxpLRw",
+        "title": "5 End-To-End Data Engineering Projects in 2024",
+        "description": "5 Best Data Engineering Projects to do in 2024.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/yZKJFKu49Dk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/yZKJFKu49Dk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/yZKJFKu49Dk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Darshil Parmar",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-03-07T06:53:59Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Zd0vF-KoaNV2ycoBHOGB7Fdlk2A",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Ihm53yWftI8"
+      },
+      "snippet": {
+        "publishedAt": "2024-03-03T13:00:25Z",
+        "channelId": "UCChmJrVa8kDg05JfCmxpLRw",
+        "title": "How To Read Tech Books? (Things I learned after reading 21 books)",
+        "description": "Check Out My Data Engineering Bootcamp: https://bit.ly/3yXsrcy USE CODE: COMBO50 for a 50% discount Purchase Individual ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Ihm53yWftI8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Ihm53yWftI8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Ihm53yWftI8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Darshil Parmar",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-03-03T13:00:25Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "_x2LnX_tVzNJ9bcWVc31JEr-ZSo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "AUb1il2F73c"
+      },
+      "snippet": {
+        "publishedAt": "2024-02-25T13:15:57Z",
+        "channelId": "UCChmJrVa8kDg05JfCmxpLRw",
+        "title": "Data Engineering Certifications To Get Ahead Of 99% People",
+        "description": "Check Out My Data Engineering Bootcamp: https://bit.ly/3yXsrcy USE CODE: COMBO50 for a 50% discount Purchase Individual ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/AUb1il2F73c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/AUb1il2F73c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/AUb1il2F73c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Darshil Parmar",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-02-25T13:15:57Z"
+      }
+    }
+  ]
+}
