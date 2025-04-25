@@ -50,6 +50,30 @@ Here are some of the visual insights generated in this project:
   Horizontal bar chart of channels with the most uploads.  
   ![Top Channels](visuals/top_channels.png)
 
+  ---
+
+### 🌱 Future Work / Ideas
+
+Here are some enhancements planned for future versions of this project:
+
+- 📊 **Add More Visualizations**  
+  Include visual insights like most active weekdays, most used keywords, engagement metrics (likes/comments), etc.
+
+- ⏰ **Automate Data Fetching with Cron Jobs**  
+  Schedule data updates using `cron` or a task scheduler so the pipeline runs automatically.
+
+- ☁️ **Cloud Integration**  
+  Deploy the pipeline using cloud services like AWS Lambda, Azure Functions, or Google Cloud Scheduler.
+
+- 🧠 **Integrate NLP**  
+  Perform sentiment analysis or keyword extraction on video titles and descriptions.
+
+- 🔗 **Dashboard Interface**  
+  Build an interactive dashboard using Streamlit or Dash for live visualizations.
+
+- 🧪 **Testing & CI/CD**  
+  Add unit tests and automate deployments with GitHub Actions.
+
   
 
 
